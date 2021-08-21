@@ -1,6 +1,6 @@
 ---
-title:2-JAVAcmd和开发软件的编码格式
-data:2021-8-21
+title: 2-JAVAcmd和开发软件的编码格式
+data: 2021-8-21
 ---
 
 # 编码格式
