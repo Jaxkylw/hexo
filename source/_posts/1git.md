@@ -66,4 +66,16 @@ $ git push origin master
 
 以上，文件就可以成功从本地上传到GitHub里了。特别说明一下第一行代码，add后面是[空格].[空格]，两个空格一个点，后面接文件全名
 
-以上就是本节内容，下次见!
+## 流程
+1.设置自己的git库
+git init 将现所在地址设为Git库
+
+2.获取密钥
+ssh-keygen -t rsa -C "1916xxx235@mail.com"
+cat ~/.ssh/id_rsa.pub
+
+3.github验证密钥，连接库
+git remote add origin 库地址
+如果是首次上传 用git push -u origin master
+
+END
