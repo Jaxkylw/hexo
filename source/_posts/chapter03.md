@@ -2,8 +2,6 @@
 title: 计算机chapter03
 date: 2022-1-5
 ---
-# 计算机 Chapter03
-
 1. Word 默认和模板扩展名、Word 默认文件名称 
 
    ```bash
