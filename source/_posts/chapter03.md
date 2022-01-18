@@ -341,7 +341,7 @@ date: 2022-1-5
     	-拼写:F7
     	-字数统计:Ctrl+Shift+G
     	-批注:Ctrl+Alt+M
-    	-修订:Ctrl+Shift+
+    	-修订:Ctrl+Shift+E
     ```
 
 48. 拼写颜色、语法错误
